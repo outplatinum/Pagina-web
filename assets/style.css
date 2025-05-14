@@ -4,7 +4,7 @@ body {
 }
 
 #container {
-    display:flex ;
+    display: flex; /* Elementos dispostos em linha */
 }
 
 .cartao {
@@ -12,11 +12,12 @@ body {
     background-color: aqua;
     height: 20rem;
     flex-grow: 1;
-    flex-basis: calc(33% -6rem);
+    flex-basis: calc(33% - 6rem);
 }
 
-    .cartao__conteudo {
+.cartao__conteudo {
     text-align: center;
+    /* background-color: aquamarine; */
     height: 100%;
 }
 
@@ -29,6 +30,14 @@ body {
     border-radius: 0.6rem;
     font-size: 1vw;
 }
+
+.cartao__conteudo p {
+    margin-top: 1rem;
+    padding: 2rem;
+}
+
+
+
 
 
 
