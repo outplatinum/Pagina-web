@@ -1,7 +1,9 @@
-body {
-    background-color: bisque;
+
+    body {
+    background: url('img/bg-desktop.webp');
     font-family: Bai Jamjuree;
 }
+
 
 #container {
     display: flex; /* Elementos dispostos em linha */
