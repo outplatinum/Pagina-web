@@ -1,23 +1,23 @@
 criaCartao(
     'Esporte',
-    'O Brasil tem quantas copas do mundo?',
-    'O Brasil tem 5 copas'
+    'O que é uma linguagem de programação orientada a objetos?',
+    'É uma linguagem baseada no conceito de objetos, que combinam dados (atributos) e comportamentos (métodos). Exemplos incluem Java, C# e Python.'
 )
 
 criaCartao(
     'Geografia',
-    'Qual a capital do Brasil?',
-    'A capital do Brasil é Brasilia'
+    'O que é um algoritmo?',
+    'Um algoritmo é uma sequência lógica de passos para resolver um problema ou realizar uma tarefa.'
 )
 
 criaCartao(
     'Astronomia',
-    'qual a temperatura do sol?',
-    '15,7 milhões de graus Celsius'
+    'O que é uma variável?',
+    'Uma variável é um espaço na memória usado para armazenar um valor que pode ser alterado durante a execução do programa.'
 )
 
 criaCartao(
     'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'O que é uma função?',
+    'Uma função é um bloco de código reutilizável que executa uma tarefa específica e pode receber parâmetros e retornar um valor.)'
 )
